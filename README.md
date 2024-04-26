@@ -28,11 +28,11 @@ The steps involved are:-
 
 7. Data Splitting and ML Model Implementation:-
 
-a. Linear Regression
+  a. Linear Regression
 
-b. Ridge Regression
+  b. Ridge Regression
 
-c. Lasso Regression
+  c. Lasso Regression
 
-d. Random Forest Regressor
+  d. Random Forest Regressor
 
