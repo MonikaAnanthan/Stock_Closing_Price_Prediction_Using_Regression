@@ -1,2 +1,2 @@
-#### **Stock Closing Price Prediction Using Regression**
+##  **Stock Closing Price Prediction Using Regression**
 
